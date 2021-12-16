@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\Proiect_PCLP.csproj": {}
+    "C:\\Users\\coste\\Desktop\\proj\\Proiect_PCLP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\Proiect_PCLP.csproj": {
+    "C:\\Users\\coste\\Desktop\\proj\\Proiect_PCLP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\Proiect_PCLP.csproj",
+        "projectUniqueName": "C:\\Users\\coste\\Desktop\\proj\\Proiect_PCLP.csproj",
         "projectName": "Proiect_PCLP",
-        "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\Proiect_PCLP.csproj",
-        "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\obj\\",
+        "projectPath": "C:\\Users\\coste\\Desktop\\proj\\Proiect_PCLP.csproj",
+        "packagesPath": "C:\\Users\\coste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coste\\Desktop\\proj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -57,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

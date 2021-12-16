@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gqfDfGO3Fc/YuVBHtEmY/fQR8UFmONHz/ct3qENiJ4ftFrAYucVQID3aRxaiX6LBevlK1m+mvPZFuQcxjs83Fw==",
+  "dgSpecHash": "4NxXCpz7qQcFLNfFVw3LZggiKxHM4JKT7GW/1v4nwQa3+J1C19JQzlMoQvTOWdPWyvFRC0RoPtufNe9AW7Jy2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS-PC\\Desktop\\Proiect rush\\proj\\Proiect_PCLP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\coste\\Desktop\\proj\\Proiect_PCLP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coste\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\coste\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\coste\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\coste\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

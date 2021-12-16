@@ -52,3 +52,21 @@ C:\Users\ASUS-PC\Desktop\Proiect rush\proj\obj\Debug\net5.0-windows\Proiect_PCLP
 C:\Users\ASUS-PC\Desktop\Proiect rush\proj\obj\Debug\net5.0-windows\ref\Proiect_PCLP.dll
 C:\Users\ASUS-PC\Desktop\Proiect rush\proj\obj\Debug\net5.0-windows\Proiect_PCLP.pdb
 C:\Users\ASUS-PC\Desktop\Proiect rush\proj\obj\Debug\net5.0-windows\Proiect_PCLP.genruntimeconfig.cache
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.exe
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.deps.json
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.runtimeconfig.json
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.runtimeconfig.dev.json
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.dll
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\ref\Proiect_PCLP.dll
+C:\Users\coste\Desktop\proj\bin\Debug\net5.0-windows\Proiect_PCLP.pdb
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.csproj.AssemblyReference.cache
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.Form1.resources
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.csproj.GenerateResource.cache
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.AssemblyInfoInputs.cache
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.AssemblyInfo.cs
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.csproj.CoreCompileInputs.cache
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.dll
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\ref\Proiect_PCLP.dll
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.pdb
+C:\Users\coste\Desktop\proj\obj\Debug\net5.0-windows\Proiect_PCLP.genruntimeconfig.cache

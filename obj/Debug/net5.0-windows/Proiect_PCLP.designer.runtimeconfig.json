@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\ASUS-PC\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ASUS-PC\\.nuget\\packages"
+      "C:\\Users\\coste\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coste\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

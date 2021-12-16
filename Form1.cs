@@ -179,13 +179,13 @@ namespace Proiect_PCLP
                 
                 if (turn)
                 {
-                    winner = "0";
+                    winner = player_o.Text;
                     scoreO++;
                     o_castiga.Text = scoreO.ToString();
                 }
                 else
                 {
-                    winner = "X";
+                    winner = player_x.Text;
                     scoreX++;
                     x_castiga.Text = scoreX.ToString();
                 }
@@ -228,6 +228,41 @@ namespace Proiect_PCLP
             turn = true;
             turn_count = 0;
 
+            blockCnt = 0;
+            blokedCell = -1;
+            try
+            {
+                foreach (Control c in panel1.Controls)
+                {
+                    Button b = (Button)c;
+                    if (int.Parse(b.Tag.ToString()) != blokedCell)
+                    {
+
+                        blockCnt = 0;
+                        b.BackColor = Color.LightGray; // se decoloreaza butoanele  
+                        b.Enabled = true; // se reactiveaza butoanele
+                        b.Text = "";
+                    }
+                    else
+                    {
+
+                        b.BackColor = Color.Gray; // se coloreaza butoanele
+                        b.Enabled = false;
+                        b.Text = "";
+                    }
+                }// inchidem foreach-ul
+            }// inchidem try-ul
+            catch { }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < array.Length; i++)
+                array[i] = 999;
+
+            turn = true;
+            turn_count = 0;
+
             blockCnt = 1;
             Random rnd = new Random();
             blokedCell = rnd.Next(0, 9);
@@ -239,19 +274,31 @@ namespace Proiect_PCLP
                     Button b = (Button)c;
                     if (int.Parse(b.Tag.ToString()) != blokedCell)
                     {
-                        b.BackColor = Color.LightGray;
+                        b.BackColor = Color.LightGray; // se decoloreaza butoanele 
                         b.Enabled = true; // se reactiveaza butoanele
                         b.Text = "";
                     }
                     else
                     {
-                        b.BackColor = Color.Gray;
+                        b.BackColor = Color.Gray; // se coloreaza butoanele 
                         b.Enabled = false;
                         b.Text = "";
                     }
                 }// inchidem foreach-ul
             }// inchidem try-ul
             catch { }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            x_castiga.Text = "0";
+            o_castiga.Text = "0";
+            egaluri.Text = "0";
+        }
+
+        private void x_castiga_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void iesireToolStripMenuItem_Click(object sender, EventArgs e)
